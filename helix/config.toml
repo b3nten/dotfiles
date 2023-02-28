@@ -1,0 +1,5 @@
+theme = "catppuccin_frappe"
+
+[editor]
+line-number="relative"
+auto-save=true
